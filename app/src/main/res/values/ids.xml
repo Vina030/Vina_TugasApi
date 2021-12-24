@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnRefresh" type="id" />
+    <item name="loadingView" type="id" />
+    <item name="listView" type="id" />
+</resources>
